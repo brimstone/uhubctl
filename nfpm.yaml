@@ -1,0 +1,17 @@
+# nfpm example config file
+name: "uhubctl"
+arch: "arm"
+platform: "linux"
+version: "v2.0.0-60-ga9da"
+section: "default"
+priority: "extra"
+maintainer: "Matt Robinson <brimstone@the.narro.ws>"
+description: |
+  uhubctl controls power to ports on some usb hubs.
+vendor: "the.narro.ws"
+homepage: "https://github.com/brimstone/uhubctl"
+license: "MIT"
+bindir: "/usr/bin"
+files:
+  ./uhubctl: "/usr/bin/uhubctl"
+  ./52-usb.rules: "/etc/udev/rules.d/52-usb.rules"

@@ -6,3 +6,5 @@ uhubctl
 
 # Mac symbols
 *.dSYM
+
+/*.deb
