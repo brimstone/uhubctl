@@ -1,0 +1,17 @@
+Package: uhubctl
+Architecture: armhf
+Version: 2.0.0-62-ge5af
+Priority: extra
+Section: default
+Maintainer: Matt Robinson <brimstone@the.narro.ws>
+Installed-Size: 33
+Filename: ./uhubctl_2.0.0-62-ge5af_armhf.deb
+Size: 17132
+MD5sum: 68525e1a147781414f174c7da9f91ac0
+SHA1: 4be5723aa34897cab9b8be51cb83a86fa921d6ba
+SHA256: be17fe336b5cb452736e1e64638dada800191a3f40ee6a3e7af5468ecce473c8
+SHA512: 50df5ec1f837ed1ab4526c53bb95c6636c99936d16ecf4ce2b1d34c2df845545f03f1001e028a13a79dfba707f8160e1ea91db6cd549c5d2bc77c41dc356b38b
+Homepage: https://github.com/brimstone/uhubctl
+Description: uhubctl controls power to ports on some usb hubs.
+Vendor: the.narro.ws
+
