@@ -2,7 +2,7 @@
 name: "uhubctl"
 arch: "arm"
 platform: "linux"
-version: "v2.0.0-60-ga9da"
+version: "${GIT_VERSION}"
 section: "default"
 priority: "extra"
 maintainer: "Matt Robinson <brimstone@the.narro.ws>"
